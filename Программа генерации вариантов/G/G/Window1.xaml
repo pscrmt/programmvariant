@@ -1,0 +1,33 @@
+﻿<Window x:Class="G.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Style="{StaticResource MaterialDesignWindow}"
+        xmlns:local="clr-namespace:G"
+        mc:Ignorable="d"
+        Title="Window1" Height="384" Width="298" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="89*"/>
+            <ColumnDefinition Width="141*"/>
+            <ColumnDefinition Width="68*"/>
+        </Grid.ColumnDefinitions>
+        <Border HorizontalAlignment="Left" VerticalAlignment="Center" Background="#FF3E3D3D"  Height="368" Width="298" Grid.ColumnSpan="3">
+            <Grid>
+                <Button  Margin="46,22,46,196" Height="150" Click="Button_Click">
+                    <TextBlock Text="Создать новый набор вариантов" TextWrapping="Wrap" TextAlignment="Center" />
+                </Button>
+                <Button Height="150" Margin="46,194,46,0" VerticalAlignment="Top" Width="206" Click="Button_Click_1">
+                    <TextBlock Text="Посмотреть готовые наборы" TextWrapping="Wrap" TextAlignment="Center" />
+
+                </Button>
+
+                <Button Content="&lt;" HorizontalAlignment="Left" Width="34" Click="Button_Click_2" FontSize="16" FontWeight="Normal" Background="#FFA5A5A5" BorderBrush="#FFB1B0B3" Padding="7,4,7,4" Margin="8,7,0,329" BorderThickness="0,0,0,0" />
+
+            </Grid>
+
+        </Border>
+
+    </Grid>
+</Window>

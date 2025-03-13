@@ -1,0 +1,55 @@
+﻿<Window x:Class="G.Rparametrs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:G"
+        mc:Ignorable="d"
+        Title="Задание диапазона значений для распределений" Height="476" Width="350">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <DataGrid  x:Name="myData"  Margin="0,0,0,80" Grid.ColumnSpan="2"  AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="№">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock FontSize="20" Text="{Binding variant}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="Диапазон">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox Width="50" x:Name="A" FontSize="20" Text="{Binding start, UpdateSourceTrigger=PropertyChanged}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+
+                <DataGridTemplateColumn Header="[A,B]"  >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBox Width="50" x:Name="B" FontSize="20" Text="{Binding end, UpdateSourceTrigger=PropertyChanged}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Сохранить" HorizontalAlignment="Center"  Margin="0,354,0,0" VerticalAlignment="Top" Width="357" Height="90" RenderTransformOrigin="0.5,0.5" Grid.Column="1" Click="Button_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="-0.274"/>
+                    <RotateTransform/>
+                    <TranslateTransform Y="-0.855"/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+
+
+    </Grid>
+</Window>

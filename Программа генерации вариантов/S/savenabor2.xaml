@@ -1,0 +1,20 @@
+﻿<Window x:Class="S.savenabor2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:S"
+        mc:Ignorable="d"
+        Title="" Height="250" Width="350" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Border  Background="#FF3E3D3D" Width="350">
+            <Grid/>
+        </Border>
+        <Label HorizontalAlignment="Left" VerticalAlignment="Top" Content="Вариант №" Foreground="White" Margin="109,10,0,0" FontSize="20"/>
+        <Label HorizontalAlignment="Center" VerticalAlignment="Top" Content="Лабораторная работа № 2" Foreground="White" Margin="0,52,0,0" FontSize="14"/>
+        <Label HorizontalAlignment="Center" VerticalAlignment="Top" Content="Дисперсионный анализ" Foreground="White" Margin="0,87,0,0"/>
+        <Button Content="Записать в файл" HorizontalAlignment="Center" Margin="0,127,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Label HorizontalAlignment="Center" VerticalAlignment="Top" Content="вернуться назад" Foreground="Gray" Margin="0,175,0,0" FontSize="11" PreviewMouseLeftButtonDown="Label_PreviewMouseLeftButtonDown" Cursor="" />
+
+    </Grid>
+</Window>

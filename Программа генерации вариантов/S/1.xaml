@@ -1,0 +1,36 @@
+﻿<Window x:Class="S._1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:S"
+        mc:Ignorable="d"
+        Title="Первичный анализ выборок + Регрессионный анализ" Height="231" Width="362" WindowStartupLocation="CenterScreen" Closing="Window_Closing" WindowStyle="ThreeDBorderWindow">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="231*"/>
+            <ColumnDefinition Width="56*"/>
+            <ColumnDefinition Width="75*"/>
+        </Grid.ColumnDefinitions>
+        <Border HorizontalAlignment="Left" VerticalAlignment="Center" Background="#FF3E3D3D"  Height="216" Width="362" Grid.ColumnSpan="3">
+            <Grid Height="196" VerticalAlignment="Center">
+                <Button Content="&lt;" HorizontalAlignment="Left" Width="34" Click="Button_Click_2" FontSize="16" FontWeight="Normal" Background="#FFA5A5A5" BorderBrush="#FFB1B0B3" Padding="7,4,7,4" Margin="15,11,0,153" BorderThickness="0,0,0,0" />
+                <ComboBox HorizontalAlignment="Left" Margin="233,54,0,0" Width="47"   Background="#FFE6E0E0" Height="30" VerticalAlignment="Top">
+
+                    <ComboBoxItem Content="1" />
+                    <ComboBoxItem Content="2" />
+                    <ComboBoxItem Content="3" />
+                    <ComboBoxItem Content="4" />
+                    <ComboBoxItem Content="5" />
+                    <ComboBoxItem Content="6" />
+                    <ComboBoxItem Content="7" />
+                    <ComboBoxItem Content="8" />
+
+                </ComboBox>
+                <Label Content="Номер варианта:" Foreground="White" HorizontalAlignment="Left" Margin="65,52,0,0" VerticalAlignment="Top"  FontSize="16" Width="153"/>
+                <Button x:Name="Button" Content="Получить выборку" HorizontalAlignment="Center" Margin="0,128,0,0" VerticalAlignment="Top" Width="222" Height="46" Click="Button_Click_1"/>
+
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

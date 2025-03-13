@@ -1,0 +1,300 @@
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\bdgen.db
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\G.exe.config
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\G.exe
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\G.pdb
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\EntityFramework.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\MaterialDesignColors.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\System.Data.SQLite.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\EntityFramework.xml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\MaterialDesignColors.pdb
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\bin\Debug\System.Data.SQLite.xml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.csproj.AssemblyReference.cache
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\2.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Delete.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\GotoviyVariant.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Gotovynabors.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\MainWindow.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Nabor.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Rparametrs.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window1.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window2.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window3.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window4.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\App.g.cs
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G_MarkupCompile.cache
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G_MarkupCompile.lref
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\App.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\2.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Delete.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\GotoviyVariant.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Gotovynabors.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\MainWindow.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Nabor.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Rparametrs.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window1.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window2.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window3.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\Window4.baml
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.g.resources
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.Properties.Resources.resources
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.csproj.GenerateResource.cache
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.csproj.CoreCompileInputs.cache
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.csproj.CopyComplete
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.exe
+C:\Users\enkop\OneDrive\Рабочий стол\ВКР\G\G\obj\Debug\G.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\bdgen.db
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\G.exe.config
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\G.exe
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\G.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\EntityFramework.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\MaterialDesignColors.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\System.Data.SQLite.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\EntityFramework.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\bin\Debug\System.Data.SQLite.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.csproj.AssemblyReference.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\2.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Delete.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\GotoviyVariant.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Gotovynabors.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\MainWindow.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Nabor.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Rparametrs.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window1.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window2.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window3.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window4.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\App.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G_MarkupCompile.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G_MarkupCompile.lref
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\App.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\2.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Delete.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\GotoviyVariant.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Gotovynabors.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\MainWindow.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Nabor.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Rparametrs.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window1.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window2.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window3.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Window4.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.g.resources
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.Properties.Resources.resources
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.csproj.GenerateResource.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.csproj.CoreCompileInputs.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.csproj.Up2Date
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.exe
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\G.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\okno2.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Okno4.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\okno2.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Новая папка\G\G\obj\Debug\Okno4.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\bdgen.db
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\G.exe.config
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\G.exe
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\G.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignColors.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignColors.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.csproj.AssemblyReference.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\2.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Delete.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\GotoviyVariant.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Gotovynabors.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\MainWindow.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Nabor.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\okno2.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Okno4.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Rparametrs.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window1.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window2.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window3.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window4.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\App.g.cs
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G_MarkupCompile.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G_MarkupCompile.lref
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\App.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\2.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Delete.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\GotoviyVariant.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Gotovynabors.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\MainWindow.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Nabor.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\okno2.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Okno4.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Rparametrs.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window1.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window2.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window3.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\Window4.baml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.g.resources
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.Properties.Resources.resources
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.csproj.GenerateResource.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.csproj.CoreCompileInputs.cache
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.csproj.Up2Date
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.exe
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\obj\Debug\G.pdb
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\MathNet.Numerics.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\System.ValueTuple.dll
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\MathNet.Numerics.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\System.ValueTuple.xml
+C:\Users\ruch3\OneDrive\Рабочий стол\ПОЛИНА\Программа генерации вариантов\G\G\bin\Debug\Data_save_student.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Data_save_student.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\G.exe.config
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\G.exe
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\G.pdb
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.SqlServer.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignColors.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MathNet.Numerics.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.EF6.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.Linq.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.ValueTuple.dll
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.xml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.SqlServer.xml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignColors.pdb
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MathNet.Numerics.xml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.xml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.xml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.ValueTuple.xml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.AssemblyReference.cache
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\2.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Delete.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\GotoviyVariant.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Gotovynabors.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\MainWindow.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Nabor.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\okno2.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Okno4.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Rparametrs.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window1.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window2.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window3.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window4.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\App.g.cs
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G_MarkupCompile.cache
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G_MarkupCompile.lref
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\App.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\2.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Delete.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\GotoviyVariant.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Gotovynabors.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\MainWindow.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Nabor.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\okno2.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Okno4.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Rparametrs.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window1.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window2.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window3.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window4.baml
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.g.resources
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.Properties.Resources.resources
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.GenerateResource.cache
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.CoreCompileInputs.cache
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.Up2Date
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.exe
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.pdb
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Data_save_student.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\G.exe.config
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\G.exe
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\G.pdb
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.SqlServer.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignColors.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MathNet.Numerics.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.EF6.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.Linq.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.ValueTuple.dll
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.xml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\EntityFramework.SqlServer.xml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignColors.pdb
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\MathNet.Numerics.xml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.Data.SQLite.xml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\System.ValueTuple.xml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.AssemblyReference.cache
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\2.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Delete.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\GotoviyVariant.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Gotovynabors.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\MainWindow.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Nabor.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\okno2.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Okno4.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Rparametrs.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window1.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window2.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window3.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window4.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\App.g.cs
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G_MarkupCompile.cache
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G_MarkupCompile.lref
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\App.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\2.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Delete.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\GotoviyVariant.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Gotovynabors.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\MainWindow.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Nabor.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\okno2.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Okno4.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Rparametrs.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window1.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window2.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window3.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\Window4.baml
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.g.resources
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.Properties.Resources.resources
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.GenerateResource.cache
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.CoreCompileInputs.cache
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.csproj.CopyComplete
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.exe
+D:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\obj\Debug\G.pdb
+E:\2 СЕМ 4 КУРС\Программа генерации вариантов\G\G\bin\Debug\bdgen.db
